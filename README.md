@@ -1,6 +1,6 @@
 # Language-features
 
-What language-features do we want to see in PHP.
+What language-features do we want to see in PHP! [Have a look here!](https://github.com/whatdowewant4php/languagefeatures/issues/)
 
 **WE** in this case are the people using the language - be it on a day-to-day base or sporadic - not those creating the language. There might be people that fall in both categories though ;-) 
 
